@@ -56,7 +56,7 @@ If you encounter any issues while building or running the app, try the following
 
 ### Contribution
 
-Contributions to this project are welcome! If you find any bugs or want to add new features, feel free to create a pull request. Please ensure that your changes are well-documented and follow the project's coding standards.
+Contributions to this project are welcome! If you find any bugs or want to add new features, feel free to create a pull request. 
 
 
 ---
